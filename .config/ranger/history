@@ -1,0 +1,50 @@
+find rang
+find ran
+rename wp-lake.jpg
+mkdir dotfiles
+rename scripts
+rename streaming-mplayer
+rename streaming-vlc
+delete\
+mkdir ciao
+rename mplayer
+open_with geany
+rename Desktop
+set option
+set hidden false
+set show_hidden_false
+set show_hidden false
+set show_hidden true
+open_with xmind
+open_with XMind
+Q
+search /run/me
+C
+c
+help
+open_with cherrytree
+search ZSH
+search zsh
+x
+open_with firefox
+bash upg
+open_with bash
+open_with chromium
+!
+tar
+q
+qq!
+q!
+nvim
+vim
+q~
+shell :
+open_with vim
+deletey
+open_with 
+open_with vi
+delete 
+delete
+search menu
+q1
+
