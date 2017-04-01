@@ -1,0 +1,13 @@
+TAG A FILE
+
+tmsu tag "file here" "tag name here"
+
+SHOW TAGS
+
+tmsu tags
+
+SHOW TAGGED FILES
+
+tmsu files 
+tmsu files "name of tag here"
+

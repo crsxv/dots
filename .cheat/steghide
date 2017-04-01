@@ -1,0 +1,9 @@
+steghide -cf 'cover file' -ef 'embed file'
+
+steghide extract -sf 'stegofile'
+
+steghide embed -cf picture.jpg -ef secret.txt
+
+For embedding data, you will use the steghide command with the “embed” option. The supported file formats must be of the following: AU, BMP, JPEG or WAV.
+
+steghide extract -sf picture.jpg

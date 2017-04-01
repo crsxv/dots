@@ -1,0 +1,8 @@
+# Encrypt a file and then delete the input file if succeeds (pass -u option)
+
+mcrypt -u data.txt 
+
+# Decrypt a file and then delete the input file if succeeds
+
+mcrypt -u -d data.txt.nc 
+
