@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfcethemer" version="1.0">
+  <property name="ThemesHash" type="string" value="b0c935769a1a9926e2bf54a0522daad1"/>
+  <property name="MetaTheme" type="string" value="Arc-Dark"/>
+  <property name="PreveiwSize" type="int" value="48"/>
+  <property name="WindowHeight" type="int" value="470"/>
+  <property name="WindowWidth" type="int" value="507"/>
+</channel>
