@@ -35,3 +35,4 @@ if [ -f ~/.autostart ]; then
     . ~/.autostart
 fi
 
+exec xset r rate 200 50 &
